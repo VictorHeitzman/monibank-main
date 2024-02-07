@@ -44,9 +44,11 @@
     .rodape {
         display: block;
         padding: 1em;
+        justify-content: space-around;
+        
     }
 
     .redes-sociais__lista {
-        display: block;
+        display: flex;
     }
 }
