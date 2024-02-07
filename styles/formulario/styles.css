@@ -16,7 +16,7 @@
     color: var(--branco);
     font-size: 32px;
     line-height: 39px;
-    width: 40%;
+    width: 50%;
     margin: 0 auto;
 }
 
@@ -158,5 +158,9 @@
 
     .container {
         margin: 2em;
+    }
+    .formulario__botao{
+        width: 100px;
+        text-align: center;
     }
 }
